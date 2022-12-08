@@ -9,7 +9,7 @@ function Header () {
     <section className="header">
       <section className="header-top">
         <section className="header-top__logo">
-          <a href="/" className="header-logo">LOGO</a>
+          <a href="/" className="header-logo">UwU</a>
         </section>
         <section className="header-top__navbar">
           <section className="header-top__navigation">
@@ -20,10 +20,10 @@ function Header () {
       </section>
       <section className="header-bottom">
         <section className="header-bottom__phone">
-          99999999999
+          HP: +65 00000000
         </section>
         <section className="header-bottom__email">
-          shop.info@gmail.com
+          hlow025@e.ntu.edu.sg
         </section>
       </section>
     </section>

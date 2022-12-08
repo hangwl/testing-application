@@ -8,7 +8,7 @@ const HomeContainer = styled.div`
 function Home() {
   return (
     <HomeContainer>
-      <h1>Welcome to the Home page!</h1>
+      <h1>Welcome. This is a website built on React.</h1>
     </HomeContainer>
   );
 }
